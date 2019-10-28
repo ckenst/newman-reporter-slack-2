@@ -3,6 +3,7 @@
 A [newman](https://github.com/postmanlabs/newman) reporter for [slack](https://slack.com/)
 
 newman run
+
 | collection - environment | total | failed  |
 |--------------------------|-------|---------|
 | iterations               | 1     | 0       |
